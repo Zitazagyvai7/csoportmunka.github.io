@@ -1,0 +1,22 @@
+html{
+    background-color: yellow;
+}
+
+strong{
+    font-size: 20px;
+}
+p{
+ font-size:12px
+}
+h1{
+font-size: 14px
+}
+.kicsinyitendo
+{
+    height: 400px;
+    width: 500px;
+}
+#nagyitandorak{
+    height: 100%;
+    width: 120%;
+}
